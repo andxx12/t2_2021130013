@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'home_screen.dart'; // Import the HomeScreen
 import 'cart_screen.dart'; // Import the CartScreen
+import 'find_screen.dart';
 
 void main() {
   runApp(MyApp());
@@ -32,6 +33,7 @@ class _MainScreenState extends State<MainScreen> {
   final List<Widget> _pages = [
     HomeScreen(),
     CartScreen(),
+    FindScreen(),
   ];
 
   // Function to handle tapping on navbar items
