@@ -20,3 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 
 
 for the link website drible https://dribbble.com/shots/24409190-Luxeshop-Ecommerce-Mobile-App
+
+![Screenshot 2024-10-12 at 22 33 12](https://github.com/user-attachments/assets/0ae9398a-8491-4052-bcce-9469b19f10cc)
+![Screenshot 2024-10-12 at 22 32 48](https://github.com/user-attachments/assets/bbc34c51-e2fa-4365-903c-2da4054687f8)
+![Screenshot 2024-10-12 at 22 32 39](https://github.com/user-attachments/assets/ab3416b9-5530-4c1c-bc75-40fe65db0268)
